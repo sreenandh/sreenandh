@@ -1,12 +1,90 @@
 # 💫 About Me:
-Hi there, I'm Sreenandh M 👋<br>I'm a Software Developer with a passion for creating responsive and user‑friendly web applications. I specialize in building full‑stack solutions using modern technologies such as JavaScript, React, Node.js, Express.js, and MongoDB. I’m a quick learner and a dedicated team player always ready to explore innovative ways to solve problems.<br><br>🔭 Projects<br><br>NestFind – Real Estate Platform:<br>A full‑stack real estate platform with property listings, OTP‑based email verification, real‑time chat, and an admin dashboard.<br>Employee Document Management System:<br>Secure document manager with JWT authentication, Multer‑powered uploads to AWS S3, and an admin interface for categorization and tracking.<br>Intelligent Media Player:<br>Gesture‑controlled media player built with Python, OpenCV, and MediaPipe, supporting play/pause, volume, and skip gestures.<br>EcoRide – Carpooling Platform:<br>Django‑based ride‑sharing app with MySQL backend and intuitive Android interface to reduce fuel costs via shared rides.<br>🛠️ Experience<br>💼 Software Engineer Intern<br>Nubolerta Technology Solutions Pvt Ltd (Remote)<br>May 2025 – June 2025<br><br>Contributed to CloudBank, a cloud‑native core banking platform for rural banks.<br>Built features with Angular, React Native, Node.js, Express, and MySQL.<br>Designed RESTful APIs with robust validation and error handling.<br>Participated in code reviews and implemented JWT‑based authentication.<br>💼 MERN Stack Developer Intern<br>Luminar Technolab, Kochi<br>July 2024 – January 2025<br><br>Developed full‑stack web apps using MongoDB, Express, React, and Node.js.<br>Created RESTful endpoints and ensured responsive design across devices.<br>Collaborated on debugging, testing, and Git/GitHub best practices.<br>🚀 Skills & Technologies<br>JavaScript | Python | C | C++ | TypeScript | SQL<br>React | Node.js | Express.js | Angular | MongoDB | MySQL<br>HTML | CSS | Bootstrap | SASS | JWT | REST APIs | Socket.IO<br>Git/GitHub | Docker | AWS (S3, EC2) | Postman | Jira<br><br>🌱 Learning & Exploration<br><br>RESTful API design<br>Real‑time data with Socket.IO<br>Scalable back‑ends on MongoDB<br>📫 How to Reach Me<br><br>Email: sreenandhnandhu123@gmail.com<br>LinkedIn: linkedin.com/in/sreenandh-m<br>GitHub: github.com/sreenandh
+Hi there, I'm Sreenandh M 👋<br>I'm a Software Developer at Cybmirror Innovations LLP, specializing in building full-stack web applications with modern technologies. I focus on creating responsive, scalable, and user-friendly solutions using JavaScript, React, Next.js, Node.js, and cloud technologies. I'm passionate about clean code, innovative problem-solving, and continuous learning.<br><br>
 
+## 🔭 Featured Projects
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sreenandh-m/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreenandhnandhu123@gmail.com) 
+**Param Yogi School of Yoga** – Production Website<br>
+Built a production-grade educational website with Next.js 13+, featuring automated content workflow, role-based admin dashboard, and real-time database synchronization. Reduced storage overhead by 40% with Supabase integration. Integrated JWT authentication, bcrypt hashing, and Google reCAPTCHA for security.<br>
+🔗 [Live Site](https://paramyogi.com)
+
+**FitPilotAI** – AI-Powered Fitness Trainer<br>
+Building an AI-powered fitness platform that generates personalized workout and diet plans through voice interaction using Gemini LLM. Features Clerk authentication, Vapi voice transcription, and Convex for real-time data persistence.<br>
+🔗 [GitHub](https://github.com/sreenandh/FitPilotAI)
+
+**NestFind** – Real Estate Platform<br>
+A comprehensive real estate platform with property listings, JWT authentication, real-time chat using Socket.IO, and interactive maps with React Leaflet. Includes admin dashboard with analytics and reporting features.<br>
+🔗 [GitHub](https://github.com/sreenandh/NestFind-Real-Estate-Web-App)
+
+**Employee Document Management System**<br>
+Secure document manager with JWT authentication, Multer-powered file uploads to AWS S3, and admin interface for categorization, search functionality, and automated backup system.<br>
+🔗 [GitHub](https://github.com/sreenandh/Employee-docs_manage)
+
+## 🛠️ Professional Experience
+
+**💼 Software Developer**<br>
+Cybmirror Innovations LLP, Kochi<br>
+September 2025 – Present<br>
+- Develop and maintain web applications with focus on clean, scalable, and efficient code
+- Work on API integration, database management, and front-end responsiveness
+- Participate in debugging, testing, and deployment of applications to ensure high performance
+- Collaborate with cross-functional teams to design and implement software features
+
+**💼 Software Engineer Intern**<br>
+Nubolerta Technology Solutions Pvt Ltd (Remote)<br>
+May 2025 – June 2025<br>
+- Contributed to CloudBank, a cloud-native core banking platform for rural banks
+- Developed full-stack features using Angular, Node.js, Express, and MySQL
+- Designed RESTful APIs with comprehensive error handling and input validation
+- Participated in code reviews and implemented JWT-based authentication
+
+**💼 MERN Stack Developer Intern**<br>
+Luminar Technolab, Kochi<br>
+July 2024 – January 2025<br>
+- Built full-stack web applications using MongoDB, Express.js, React, and Node.js
+- Developed RESTful API endpoints and implemented responsive design across all devices
+- Collaborated on debugging, testing, and Git/GitHub best practices
+
+## 🚀 Tech Stack & Skills
+
+**Languages:**<br>
+JavaScript | TypeScript | Python | C | C++ | SQL | HTML5 | CSS3
+
+**Frontend:**<br>
+React | Next.js | Tailwind CSS | Shadcn/UI | Bootstrap | Redux | React Query | React Hook Form
+
+**Backend:**<br>
+Node.js | Express.js | RESTful APIs | JWT Authentication | Socket.IO
+
+**Databases:**<br>
+MongoDB | MySQL | Supabase | Prisma
+
+**Tools & Platforms:**<br>
+Git/GitHub | Docker | AWS (S3, EC2) | Postman | Jira | Vercel | Netlify | Firebase
+
+**Other Technologies:**<br>
+Angular | React Native | Vite | SASS | bcrypt | reCAPTCHA
+
+## 🌱 Currently Learning & Exploring
+- AI/ML integration with Gemini LLM
+- Real-time applications with WebSockets
+- Cloud-native architectures
+- Advanced Next.js patterns
+- Scalable backend systems
+
+## 📫 How to Reach Me
+📧 Email: sreenandhnandhu123@gmail.com<br>
+💼 LinkedIn: [linkedin.com/in/sreenandh-m](https://linkedin.com/in/sreenandh-m)<br>
+🌐 Portfolio: [sreenandhm.vercel.app](https://sreenandhm.vercel.app)<br>
+💻 GitHub: [github.com/sreenandh](https://github.com/sreenandh)
+
+---
+
+## 🌐 Connect With Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sreenandh-m) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sreenandhnandhu123@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://sreenandhm.vercel.app)
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sreenandh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sreenandh&theme=dark&hide_border=false)<br/>
