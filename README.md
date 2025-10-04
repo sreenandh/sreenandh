@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Sreenandh M 👋<br>I'm a Software Developer at Cybmirror Innovations LLP, specializing in building full-stack web applications with modern technologies. I focus on creating responsive, scalable, and user-friendly solutions using JavaScript, React, Next.js, Node.js, and cloud technologies. I'm passionate about clean code, innovative problem-solving, and continuous learning.<br><br>
+Hi there, I'm Sreenandh M 👋<br>I'm a Software Developer specializing in building full-stack web applications with modern technologies. I focus on creating responsive, scalable, and user-friendly solutions using JavaScript, React, Next.js, Node.js, and cloud technologies. I'm passionate about clean code, innovative problem-solving, and continuous learning.<br><br>
 
 ## 🔭 Featured Projects
 
