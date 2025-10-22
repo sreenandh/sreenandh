@@ -22,7 +22,7 @@ Secure document manager with JWT authentication, Multer-powered file uploads to 
 ## 🛠️ Professional Experience
 
 **💼 Software Developer**<br>
-Cybmirror Innovations LLP, Kochi<br>
+Cybmirror Innovations, Kochi<br>
 September 2025 – Present<br>
 - Develop and maintain web applications with focus on clean, scalable, and efficient code
 - Work on API integration, database management, and front-end responsiveness
