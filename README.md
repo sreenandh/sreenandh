@@ -20,9 +20,6 @@ I like working on both sides of an application: the interface people use and the
 ### What I'm working on
 
 - **A billing app for a shop.** Web and Windows versions using SQLite. It's still in development; offline-first workflows and sync are the next pieces I'm working towards.
-- **[FitPilotAI](https://github.com/sreenandh/FitPilotAI).** A fitness app I'm building with Gemini and Vapi for voice-based workout and meal planning, with Clerk for authentication and Convex for data.
-- **Linux and DevOps.** Learning through KodeKloud's 100 Days of DevOps challenge.
-
 I also use Claude Code and Codex in my development workflow.
 
 ### Selected work
